@@ -1,4 +1,8 @@
 /* Add your additional CSS styles here */
+html, body{ 
+	scroll-behavior:smooth;
+}
+
 body {
     margin: 0;
     padding: 0;
